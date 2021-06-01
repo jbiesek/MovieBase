@@ -1,0 +1,32 @@
+Mon May 31 14:29:24 CEST 2021
+Dodano nowy film: Skazani na Shawshank
+Mon May 31 14:30:06 CEST 2021
+Dodano nowy film: Nietykalni
+Mon May 31 14:30:35 CEST 2021
+Dodano nowy film: Zielona Mikla
+Mon May 31 14:31:21 CEST 2021
+Dodano nowy film: Ojciec Chrzesty
+Mon May 31 14:33:05 CEST 2021
+Dodano nowy serial: Gra o tron
+Mon May 31 14:33:55 CEST 2021
+Dodano nowy serial: Breaking Bad
+Mon May 31 14:34:37 CEST 2021
+Dodano nowy serial: Rick i Morty
+Mon May 31 14:35:53 CEST 2021
+Dodano nowy serial: Bojack Horseman
+Mon May 31 15:57:17 CEST 2021
+Dodano nowy serial: a
+Mon May 31 16:05:30 CEST 2021
+Usunięto serial: a
+Tue Jun 01 10:56:58 CEST 2021
+Dodano nowy film: a
+Tue Jun 01 10:57:01 CEST 2021
+Usunięto film: a
+Tue Jun 01 11:18:24 CEST 2021
+Dodano nowy serial: b
+Tue Jun 01 11:18:38 CEST 2021
+Dodano nowy film: a
+Tue Jun 01 11:22:04 CEST 2021
+Usunięto film: a
+Tue Jun 01 11:22:08 CEST 2021
+Usunięto serial: b

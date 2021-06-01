@@ -1,0 +1,36 @@
+Mon May 31 14:36:33 CEST 2021
+Zmodyfikowano film: Skazani na Shawshank
+gatunek: Dramat -> Dramat Więzienny
+Mon May 31 14:36:46 CEST 2021
+Zmodyfikowano film: Skazani na Shawshank
+gatunek: Dramat Więzienny -> Dramat
+Mon May 31 14:36:58 CEST 2021
+Zmodyfikowano film: Nietykalni
+reżyser: Olivier Naka -> Olivier Nakache
+Mon May 31 14:37:13 CEST 2021
+Zmodyfikowano film: Zielona Mikla
+status: Nieobejrzane -> Obejrzane
+Mon May 31 14:37:39 CEST 2021
+Zmodyfikowano film: Skazani na Shawshank
+rok produkcji: 1994 -> 1994
+Mon May 31 14:37:50 CEST 2021
+Zmodyfikowano film: Ojciec Chrzesty
+rok produkcji: 1971 -> 1972
+Mon May 31 14:38:02 CEST 2021
+Zmodyfikowano serial: Bojack Horseman
+status: Do kupienia -> Obejrzane
+Mon May 31 14:38:24 CEST 2021
+Zmodyfikowano serial: Gra o tron
+ilość odcinków: 20 -> 100
+Tue Jun 01 11:19:18 CEST 2021
+Zmodyfikowano film: a
+rok produkcji: 2000 -> 1999
+Tue Jun 01 11:19:54 CEST 2021
+Zmodyfikowano serial: b
+rok produkcji: 2000 -> 1988
+Tue Jun 01 11:20:33 CEST 2021
+Zmodyfikowano serial: b
+ilość odcinków: 100 -> 123
+Tue Jun 01 11:24:13 CEST 2021
+Zmodyfikowano film: Zielona Mikla
+tytuł: Zielona Mikla -> Zielona Mila
